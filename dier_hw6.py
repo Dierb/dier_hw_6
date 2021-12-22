@@ -19,5 +19,4 @@ for i in numbers:
     else:
         continue
 c = c + 1
-print(c)
 
