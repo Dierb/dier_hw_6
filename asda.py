@@ -9,8 +9,8 @@
 # Подсказка : Нужно использовать циклы for
 
  # def ara(disired_sum):
-desired_sum = 5
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 2, 3]
+desired_sum = 9
+numbers = [2, 7, 11, 15]
 a = []
 c = 0
 while c != len(numbers):
